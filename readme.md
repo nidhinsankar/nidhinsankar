@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS,JavaScript,TypeScript,Shadcn-ui**
+- 🌱 I’m currently learning **NextJS,React,React-native,JavaScript,TypeScript,Shadcn-ui**
 
 - 📫 How to reach me **nidhinsankar1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1\_\_GExB_t2ET7htRX7xa9kqHmF9VCU1YD/view?usp=sharing](https://drive.google.com/file/d/1__GExB_t2ET7htRX7xa9kqHmF9VCU1YD/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1\_\_GExB_t2ET7htRX7xa9kqHmF9VCU1YD/view?usp=sharing](https://drive.google.com/file/d/1hiUC22MgSbyHUlxvDyTF6n-N_22odAxq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
